@@ -1,5 +1,6 @@
 
 const About = () => {
+
   return (
     <div className="max-w-4xl mx-auto space-y-8 px-4 sm:px-6">
       <div className="text-center space-y-4">
@@ -15,6 +16,7 @@ const About = () => {
             To make language learning accessible, enjoyable, and effective for everyone through innovative technology and community-driven approaches.
           </p>
         </div>
+
         <div>
           <h2 className="text-xl sm:text-2xl font-semibold">What We Offer</h2>
           <ul className="mt-2 space-y-2">
