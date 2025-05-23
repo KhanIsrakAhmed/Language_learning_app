@@ -19,6 +19,7 @@ interface SearchResult {
   translations: Translation[];
 }
 
+
 interface Language {
   code: string;
   name: string;
